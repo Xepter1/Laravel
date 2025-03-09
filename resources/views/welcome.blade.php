@@ -9,7 +9,7 @@
     <h1>Welcome to Network</h1>
     <p>click the button below</p>
 
-    <a href="" class="button">
+    <a href="/ninjas" class="button">
         Find Ninja
     </a>
 </body>
